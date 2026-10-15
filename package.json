@@ -1,0 +1,13 @@
+{
+  "name": "com.andiseko.unitextextension",
+  "version": "1.0.0",
+  "displayName": "UniText Extension",
+  "description": "Extension for UniText",
+  "unity": "2021.3",
+  "author": {
+    "name": "AndiSeko"
+  },
+  "dependencies": {
+    "com.andiseko.unitext": "1.0.0"
+  }
+}
