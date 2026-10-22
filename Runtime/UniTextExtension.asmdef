@@ -1,0 +1,6 @@
+﻿{
+  "name": "UniTextExtension",
+  "rootNamespace": "UniTextExtension",
+  "references": ["LightSide.UniText"],
+  "autoReferenced": true
+}

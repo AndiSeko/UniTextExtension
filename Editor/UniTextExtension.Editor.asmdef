@@ -1,0 +1,7 @@
+﻿{
+  "name": "UniTextExtension.Editor",
+  "rootNamespace": "UniTextExtension",
+  "references": ["UniTextExtension", "LightSide.UniText"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
