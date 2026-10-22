@@ -24,6 +24,7 @@ namespace UniTextExtension
             uniText.Text = "New Text";
             uniText.AutoSize = true;
             
+            CanvasUtility.PlaceUIElement(go, menuCommand);
             
             Undo.RegisterFullObjectHierarchyUndo(go, "Create UniText");
             GameObjectUtility.SetParentAndAlign(go, menuCommand.context as GameObject);
