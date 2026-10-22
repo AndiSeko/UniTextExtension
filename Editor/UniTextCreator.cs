@@ -7,7 +7,6 @@ namespace UniTextExtension
 {
     public static class UniTextCreator
     {
-        [MenuItem("GameObject/UI (Canvas)/UniText")]
         public static void CreateUniText(MenuCommand menuCommand)
         {
             GameObject go = new GameObject("Text");
